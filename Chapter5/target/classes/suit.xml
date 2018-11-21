@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suit name="test">
+    <test name="login">
+        <classes>
+                <class name="com.couse.testNg.suit.SuitConfig"/>
+                <class name="com.couse.testNg.suit.LoginTest"/>
+        </classes>
+    </test>
+
+
+    <test name="pay">
+        <classes>
+            <class name="com.couse.testNg.suit.SuitConfig"/>
+            <class name="com.couse.testNg.suit.PayTest"/>
+        </classes>
+    </test>
+</suit>

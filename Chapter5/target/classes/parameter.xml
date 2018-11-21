@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<suit name="parameter">
+
+    <test name="param">
+        <classes>
+
+            <parameter name="name" value="zhangsan"/>
+            <parameter age="age" value="10"/>
+
+            <class name="com.couse.testNg.paramter.ParamterTest"/>
+        </classes>
+    </test>
+</suit>
